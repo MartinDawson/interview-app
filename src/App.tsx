@@ -18,6 +18,12 @@ function App() {
         >
           Learn React
         </a>
+        <input
+          type="text"
+        />
+        <button>
+          Submit
+        </button>
       </header>
     </div>
   );
